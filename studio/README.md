@@ -1,0 +1,1 @@
+# bitso-sanity-example-studio
